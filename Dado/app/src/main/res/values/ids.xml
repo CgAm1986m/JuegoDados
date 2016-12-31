@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="instruccionTX" type="id" />
+    <item name="imagenTX" type="id" />
+    <item name="reiniciarBT" type="id" />
+</resources>
